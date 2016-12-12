@@ -1,0 +1,2 @@
+# FusionIRCd
+A FusionScript IRCd!
